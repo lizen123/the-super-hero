@@ -15,7 +15,7 @@ site will be open in  http://localhost:3000/
 
 <!-- site work  -->
 
-* This site use to collect donation for climate changing 
+* This site use to collect donation for climate changed 
 
 *  sum all amount of donation money 
 
